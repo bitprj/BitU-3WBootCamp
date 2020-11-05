@@ -28,9 +28,10 @@ By the end of the week, you will learn how to do the following with Pandas:
 
 - Import data and create Dataframes
 - Gather information about the dataset
-- Set an index for the dataset
+- Set a custom index for the dataset
 - Select specific data using indexing
 - Remove columns, rows, or NaN (None) values from data
+- Analyze unique values
 - Filter the dataset based on your criteria
 - Use aggregation functions such as groupby on the data
 
