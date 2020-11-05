@@ -1,4 +1,4 @@
-<img src="https://github.com/bitprj/BitU-3WBootCamp/blob/Narae/Week%202%20-%20Working%20with%20Data%20using%20Pandas/images/DataManipulationGraphic.jfif" width="110" height="75" align="center" >
+<img src="https://github.com/bitprj/BitU-3WBootCamp/blob/Narae/Week%202%20-%20Working%20with%20Data%20using%20Pandas/images/DataManipulationGraphic.jfif" align="center" width="500" height="300">
 
 
 # <div align="center"> Working with Data Using Pandas </div>
