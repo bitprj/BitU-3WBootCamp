@@ -26,13 +26,13 @@ For this week, we will focus on data manipulation using Pandas. Pandas is an ope
 
 By the end of the week, you will learn how to do the following with Pandas:
 
-- Import and create datasets
-- Set an index for the dataset
+- Import data and create Dataframes
 - Gather information about the dataset
-- Remove NaN (None) values from the data
-- Select specific subsets of data
+- Set an index for the dataset
+- Select specific data using indexing
+- Remove columns, rows, or NaN (None) values from data
 - Filter the dataset based on your criteria
-- Use aggregation functions on the data
+- Use aggregation functions such as groupby on the data
 
 Thus, by the end of this week, you will have an excellent foundation for data analysis using Pandas. 
 
