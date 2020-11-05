@@ -1,4 +1,4 @@
-# Working with Data Using Pandas 
+# <div align="center"> Working with Data Using Pandas </div>
 
 ### Recap
 
